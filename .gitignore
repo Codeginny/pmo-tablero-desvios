@@ -1,0 +1,20 @@
+# Entorno virtual
+.venv/
+
+# Base de datos local (se regenera con el pipeline)
+*.sqlite
+
+# Salidas intermedias del pipeline
+data/processed/
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Notas de trabajo que no van al repo
+docs/plan_por_areas.md
