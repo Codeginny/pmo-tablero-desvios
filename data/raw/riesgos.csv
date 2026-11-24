@@ -1,0 +1,17 @@
+riesgo_id,proyecto_id,descripcion,probabilidad,impacto,estado,responsable
+R01,P01,El proveedor de OCR cambia su tarifa a mitad del proyecto,2,3,Abierto,Lucía Herrero
+R02,P02,Dos consultores del integrador asignados a otro cliente,4,4,Abierto,Marcos Ibáñez
+R03,P02,La limpieza de contactos duplicados lleva más de lo estimado,3,3,Abierto,Marcos Ibáñez
+R04,P03,La API del e-commerce del cliente no soporta pedidos parciales,4,5,Abierto,Elena Soto
+R05,P03,Horas extra de integración para llegar al hito de pruebas,4,4,Abierto,Elena Soto
+R06,P04,El cliente pide funcionalidades fuera del alcance acordado,4,4,Abierto,Javier Prieto
+R07,P05,Resistencia del equipo de soporte al nuevo flujo,3,3,Mitigado,Lucía Herrero
+R08,P06,Datos comerciales incompletos en el CRM antiguo,2,2,Abierto,Marcos Ibáñez
+R09,P07,Rotación del responsable funcional de RRHH,4,4,Abierto,Elena Soto
+R10,P07,Retrasos en la firma del acuerdo de protección de datos,3,4,Abierto,Elena Soto
+R11,P08,Los PMs del cliente cargan el avance en planillas propias,4,3,Abierto,Javier Prieto
+R12,P09,Validez legal de la firma en contratos con proveedores extranjeros,2,4,Cerrado,Lucía Herrero
+R13,P10,Licencias del motor de base de datos más caras de lo presupuestado,5,4,Abierto,Marcos Ibáñez
+R14,P10,Calidad de los datos de origen de las filiales,4,4,Abierto,Marcos Ibáñez
+R15,P11,Aprobación del nuevo circuito de compras pendiente del comité,4,3,Abierto,Elena Soto
+R16,P12,El banco adquirente demora la entrega de credenciales de prueba,5,4,Mitigado,Javier Prieto

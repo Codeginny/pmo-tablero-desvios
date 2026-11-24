@@ -1,0 +1,14 @@
+regla,tabla,proyecto_id,fecha_corte,campo,valor_sembrado,descripcion
+DQ03,cortes_semanales,P02,2026-07-03,avance_real_pct,115.0,Avance cargado como 115 % (se tipeó un 1 de más)
+DQ04,cortes_semanales,P07,2026-07-31,avance_real_pct,36.3,El avance baja 3 puntos respecto del corte anterior
+DQ06,cortes_semanales,P04,2026-06-12,costo_real_acum,-9055.3,Costo acumulado con signo negativo
+DQ05,cortes_semanales,P08,2026-11-06,costo_real_acum,44280.4,El costo acumulado baja un 10 % respecto del corte anterior
+DQ01,cortes_semanales,P08,2026-11-13,avance_real_pct,,Corte sin avance real informado
+DQ12,cortes_semanales,P12,2026-07-10,costo_real_acum,1800.0,Tercer corte seguido con costo y sin avance
+DQ11,cortes_semanales,P12,2026-07-17,avance_real_pct,0.4,Avance informado antes del inicio real (20/07)
+DQ09,cortes_semanales,P01,2026-11-13,fecha_corte,,Proyecto activo sin corte en los últimos 7 días
+DQ10,cortes_semanales,P06,2026-11-20,fecha_corte,2026-11-20,Corte con fecha posterior a la fecha de referencia
+DQ08,cortes_semanales,P15,2026-11-13,proyecto_id,P15,Corte de un proyecto que no está en la cartera
+DQ01,proyectos,P13,,nombre,,Proyecto sin nombre
+DQ02,proyectos,P13,,fecha_fin_plan,2026-06-30,Fecha de fin planificada anterior al inicio (año mal tipeado)
+DQ07,proyectos,P13,,proyecto_id,P13,El proyecto está cargado dos veces

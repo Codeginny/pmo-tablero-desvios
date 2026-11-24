@@ -1,0 +1,49 @@
+hito_id,proyecto_id,nombre,fecha_plan,fecha_real
+P01-H1,P01,Análisis y diseño aprobados,2026-06-09,2026-06-12
+P01-H2,P01,Construcción o configuración completa,2026-08-12,2026-08-14
+P01-H3,P01,Pruebas de aceptación superadas,2026-10-15,2026-10-16
+P01-H4,P01,Puesta en marcha,2026-12-18,
+P02-H1,P02,Análisis y diseño aprobados,2026-07-11,2026-08-07
+P02-H2,P02,Construcción o configuración completa,2026-09-16,2026-11-06
+P02-H3,P02,Pruebas de aceptación superadas,2026-11-22,
+P02-H4,P02,Puesta en marcha,2027-01-29,
+P03-H1,P03,Análisis y diseño aprobados,2026-05-31,2026-06-26
+P03-H2,P03,Construcción o configuración completa,2026-08-29,2026-10-23
+P03-H3,P03,Pruebas de aceptación superadas,2026-11-28,
+P03-H4,P03,Puesta en marcha,2027-02-26,
+P04-H1,P04,Análisis y diseño aprobados,2026-07-11,2026-07-17
+P04-H2,P04,Construcción o configuración completa,2026-09-02,2026-09-04
+P04-H3,P04,Pruebas de aceptación superadas,2026-10-25,2026-10-30
+P04-H4,P04,Puesta en marcha,2026-12-18,
+P05-H1,P05,Análisis y diseño aprobados,2026-06-21,2026-07-03
+P05-H2,P05,Construcción o configuración completa,2026-08-29,2026-09-11
+P05-H3,P05,Pruebas de aceptación superadas,2026-11-07,2026-11-06
+P05-H4,P05,Puesta en marcha,2027-01-15,
+P06-H1,P06,Análisis y diseño aprobados,2026-07-19,2026-07-17
+P06-H2,P06,Construcción o configuración completa,2026-09-05,2026-08-28
+P06-H3,P06,Pruebas de aceptación superadas,2026-10-24,2026-10-09
+P06-H4,P06,Puesta en marcha,2026-12-11,
+P07-H1,P07,Análisis y diseño aprobados,2026-06-04,2026-06-05
+P07-H2,P07,Construcción o configuración completa,2026-08-23,2026-08-21
+P07-H3,P07,Pruebas de aceptación superadas,2026-11-10,
+P07-H4,P07,Puesta en marcha,2027-01-29,
+P08-H1,P08,Análisis y diseño aprobados,2026-07-14,2026-07-17
+P08-H2,P08,Construcción o configuración completa,2026-09-23,2026-10-02
+P08-H3,P08,Pruebas de aceptación superadas,2026-12-03,
+P08-H4,P08,Puesta en marcha,2027-02-12,
+P09-H1,P09,Análisis y diseño aprobados,2026-04-23,2026-04-24
+P09-H2,P09,Construcción o configuración completa,2026-06-14,2026-06-19
+P09-H3,P09,Pruebas de aceptación superadas,2026-08-04,2026-08-07
+P09-H4,P09,Puesta en marcha,2026-09-25,2026-09-25
+P10-H1,P10,Análisis y diseño aprobados,2026-05-26,2026-06-05
+P10-H2,P10,Construcción o configuración completa,2026-09-16,2026-10-09
+P10-H3,P10,Pruebas de aceptación superadas,2027-01-07,
+P10-H4,P10,Puesta en marcha,2027-04-30,
+P11-H1,P11,Análisis y diseño aprobados,2026-06-28,2026-07-03
+P11-H2,P11,Aprobación del nuevo circuito de compras,2026-10-23,
+P11-H3,P11,Pruebas de aceptación superadas,2026-11-14,
+P11-H4,P11,Puesta en marcha,2027-01-22,
+P12-H1,P12,Análisis y diseño aprobados,2026-08-25,2026-10-02
+P12-H2,P12,Construcción o configuración completa,2026-11-04,
+P12-H3,P12,Pruebas de aceptación superadas,2027-01-14,
+P12-H4,P12,Puesta en marcha,2027-03-26,

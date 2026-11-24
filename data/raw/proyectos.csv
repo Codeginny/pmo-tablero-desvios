@@ -1,0 +1,15 @@
+proyecto_id,nombre,area,cliente,pm,sponsor,metodologia,prioridad,fase,estado,fecha_inicio_plan,fecha_fin_plan,fecha_inicio_real,fecha_fin_real,presupuesto_bac
+P01,Automatización de facturas de proveedores,Finanzas,Interno,Lucía Herrero,Dirección Financiera,Híbrido,Alta,Ejecución,En ejecución,2026-04-06,2026-12-18,2026-04-06,,85000.0
+P02,Migración de CRM,Comercial,Interno,Marcos Ibáñez,Dirección Comercial,Predictivo,Alta,Ejecución,En ejecución,2026-05-04,2027-01-29,2026-05-04,,110000.0
+P03,Integración ERP–e-commerce,Tecnología,Marisma Hogar,Elena Soto,Dirección de Operaciones,Predictivo,Crítica,Ejecución,En ejecución,2026-03-02,2027-02-26,2026-03-02,,120000.0
+P04,Portal de autoservicio de clientes,Tecnología,Varela & Ortiz Distribución,Javier Prieto,Dirección Comercial,Ágil,Alta,Ejecución,En ejecución,2026-05-18,2026-12-18,2026-05-18,,95000.0
+P05,Implantación de sistema de tickets,Operaciones,Interno,Lucía Herrero,Dirección de Operaciones,Ágil,Media,Ejecución,En ejecución,2026-04-13,2027-01-15,2026-04-13,,70000.0
+P06,Cuadro de mando comercial,Comercial,Interno,Marcos Ibáñez,Dirección Comercial,Ágil,Media,Ejecución,En ejecución,2026-06-01,2026-12-11,2026-06-01,,60000.0
+P07,Onboarding digital de empleados,RRHH,Interno,Elena Soto,Dirección de Personas,Híbrido,Media,Ejecución,En ejecución,2026-03-16,2027-01-29,2026-03-16,,80000.0
+P08,Optimización de rutas de reparto,Logística,Varela & Ortiz Distribución,Javier Prieto,Dirección de Operaciones,Predictivo,Alta,Ejecución,En ejecución,2026-05-04,2027-02-12,2026-05-04,,75000.0
+P09,Firma electrónica de contratos,Legal,Interno,Lucía Herrero,Dirección Financiera,Predictivo,Baja,Cierre,Cerrado,2026-03-02,2026-09-25,2026-03-02,2026-09-25,45000.0
+P10,Data warehouse financiero,Finanzas,Interno,Marcos Ibáñez,Dirección Financiera,Híbrido,Crítica,Ejecución,En ejecución,2026-02-02,2027-04-30,2026-02-02,,260000.0
+P11,Rediseño del proceso de compras,Compras,Interno,Elena Soto,Dirección de Operaciones,Híbrido,Media,Ejecución,En ejecución,2026-04-20,2027-01-22,2026-04-20,,90000.0
+P12,Integración de pasarela de pagos,Tecnología,Marisma Hogar,Javier Prieto,Dirección Comercial,Ágil,Alta,Ejecución,En ejecución,2026-06-15,2027-03-26,2026-07-20,,100000.0
+P13,,Operaciones,Interno,,Dirección de Operaciones,Predictivo,Baja,Planificación,Propuesto,2027-01-11,2027-06-30,,,55000.0
+P13,Centralita telefónica en la nube,Operaciones,Interno,,Dirección de Operaciones,Predictivo,Baja,Planificación,Propuesto,2027-01-11,2026-06-30,,,55000.0
