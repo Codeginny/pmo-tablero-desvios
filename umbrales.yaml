@@ -1,0 +1,24 @@
+# Tolerancias de la PMO (gestión por excepción, PRINCE2).
+# Cada dimensión recibe un color y el proyecto toma el peor.
+# Un valor igual al umbral cuenta como el color mejor (0,95 es verde).
+
+spi:
+  verde: 0.95
+  ambar: 0.85
+
+cpi:
+  verde: 0.95
+  ambar: 0.85
+
+# Retraso de la fecha de fin prevista, en % de la duración planificada.
+retraso_fin_pct_duracion:
+  verde: 5
+  ambar: 15
+
+# Días que un hito lleva vencido sin cumplirse.
+hito_vencido_dias:
+  verde: 7
+  ambar: 21
+
+# Un corte con errores bloqueantes de calidad no se pinta: queda en gris.
+gris_si_errores_bloqueantes: true
